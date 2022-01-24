@@ -1,0 +1,12 @@
+p {
+  background-color: rgb(240, 11, 11);
+  color: white;
+  width: 450px;
+  padding: 30px;
+  text-align: center;
+  border-radius: 10px;
+  font-size: x-large;
+}
+.containner {
+  margin-top: 20px;
+}

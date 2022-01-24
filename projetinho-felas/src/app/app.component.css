@@ -1,0 +1,16 @@
+.containner {
+  margin-left: 100px;
+}
+h1 {
+  color: rgb(32, 32, 219);
+  font-style: Arial;
+}
+app-servers {
+  color: darkgreen;
+}
+button {
+  margin-top: 5px;
+}
+.white-text {
+  color: white;
+}
